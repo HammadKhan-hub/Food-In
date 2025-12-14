@@ -145,7 +145,7 @@ The contact form is front-end ready but requires an external service to handle f
 3.  In `index.html`, find the `<form>` tag and paste the URL into the `action` attribute:
 
 ```html
-<form action="[PASTE YOUR FORMSPREE ENDPOINT URL HERE]" method="POST">
+<form action="https://formspree.io/f/xblnbzgv" method="POST">
     </form>
 🤝 Support and Contact
 If you require technical assistance with template setup or customization, please contact the developer directly at this email address: [hk5718721@gmail.com]
